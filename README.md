@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Nayem Islam 👋
 
-<!--
-**nayemislam33046/nayemislam33046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Full-Stack Web Developer** and the founder of **Ababil**, a digital agency focused on building high-performance, minimal, and user-centric web applications. I specialize in the **MERN stack** and **Next.js**, with a strong passion for clean code and aesthetic UI design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on:
+- 🛠️ Developing modern web solutions for **Ababil**.
+- ⚡ Mastering **Next.js 15** and **Tailwind CSS v4**.
+- 🎨 Creating minimal and high-performance UI designs.
+- 📦 Building scalable backend systems with **Node.js** & **Laravel**.
+
+### 💻 Tech Stack:
+- **Frontend:** React, Next.js, Tailwind CSS (v4), Redux.
+- **Backend:** Node.js, Express, Laravel, PHP.
+- **Database:** MongoDB, MySQL, PostgreSQL.
+- **Design Tools:** Figma, Adobe XD (Minimalist approach).
+
+### 📊 GitHub Stats:
+![Nayem's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayemislam33046&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayemislam33046&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Let's Connect:
+- **Website:** [your-portfolio-link.com](https://your-portfolio-link.com)
+- **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com]
+- **Twitter/X:** [@your-handle](https://twitter.com/your-handle)
+
+"Make it clean. Make it simple."
