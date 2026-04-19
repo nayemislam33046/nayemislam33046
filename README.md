@@ -1,30 +1,29 @@
-# Hi there, I'm Nayem Islam 👋
+# Hi, I'm Nayem Islam 👋
 
-I am a **Full-Stack Web Developer** and the founder of **Ababil**, a digital agency focused on building high-performance, minimal, and user-centric web applications. I specialize in the **MERN stack** and **Next.js**, with a strong passion for clean code and aesthetic UI design.
+I'm a **Full-Stack Web Developer** and Designer dedicated to building high-performance, minimal, and user-centric web applications. Currently, I'm focused on delivering quality digital solutions through **Ababil**, specializing in the **MERN stack** and **Next.js**.
 
----
-
-### 🚀 What I'm working on:
-- 🛠️ Developing modern web solutions for **Ababil**.
-- ⚡ Mastering **Next.js 15** and **Tailwind CSS v4**.
-- 🎨 Creating minimal and high-performance UI designs.
-- 📦 Building scalable backend systems with **Node.js** & **Laravel**.
-
-### 💻 Tech Stack:
-- **Frontend:** React, Next.js, Tailwind CSS (v4), Redux.
-- **Backend:** Node.js, Express, Laravel, PHP.
-- **Database:** MongoDB, MySQL, PostgreSQL.
-- **Design Tools:** Figma, Adobe XD (Minimalist approach).
-
-### 📊 GitHub Stats:
-![Nayem's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayemislam33046&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayemislam33046&layout=compact&theme=tokyonight)
+I have a deep appreciation for clean code, typography, and aesthetic UI design. My goal is to bridge the gap between complex backend logic and seamless user experiences.
 
 ---
 
-### 📫 Let's Connect:
-- **Website:** [your-portfolio-link.com](https://your-portfolio-link.com)
-- **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com]
-- **Twitter/X:** [@your-handle](https://twitter.com/your-handle)
+### 🚀 What I Do:
+- 💻 Building scalable applications with **Next.js**, **React**, and **Node.js**.
+- 🎨 Crafting minimal interfaces using **Tailwind CSS**.
+- 🛠️ Developing robust backend systems with **Laravel** and **Express**.
+- ⚡ Optimizing web performance for better accessibility and speed.
 
-"Make it clean. Make it simple."
+### 🛠️ Tech Stack:
+- **Languages & Frameworks:** JavaScript, TypeScript, React, Next.js, Node.js, Laravel.
+- **Styling:** Tailwind CSS, Bootstrap, CSS, Modern Typography.
+- **Databases:** MongoDB, MySQL, PostgreSQL.
+- **Tools:** Git, Figma.
+
+### 📊 My GitHub Journey:
+![Nayem's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayemislam33046&show_icons=true&theme=dark)
+
+---
+
+### 📫 Get In Touch:
+- **LinkedIn:** [https://www.linkedin.com/in/nayem33046]
+- **Email:** [nadimmahmudnayem2@gmail.com]
+- **Portfolio:** [https://my-portfolio-beta-six-62.vercel.app]
